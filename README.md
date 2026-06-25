@@ -48,8 +48,9 @@ A modern coding platform inspired by LeetCode, but with my own design, AI mentor
 Practicing DSA, improving problem-solving, building strong projects and learning real-world development step by step.
 
 </td> </tr> </table>
-## 🛠 Tech Stack
 
+🛠 Tech Stack
+<table> <tr> <td width="50%">
 **Languages:** C++ , JavaScript, 
 
 **Frontend:** React, Vite, Tailwind CSS, Redux, HTML5, CSS3
@@ -59,7 +60,7 @@ Practicing DSA, improving problem-solving, building strong projects and learning
 **Database & Cloud:** MongoDB, Redis , Cloudinary, MongoDB Compass
 
 **Tools:** Git, GitHub, VS Code, Postman, Vercel
-
+</td> </tr> </table>
 🏆 Featured Projects
 <table> <tr> <td width="50%" valign="top">
 ⚡ CodeBit — AI Coding Platform
