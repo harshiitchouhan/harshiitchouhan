@@ -51,6 +51,7 @@ Practicing DSA, improving problem-solving, building strong projects and learning
 
 🛠 Tech Stack
 <table> <tr> <td width="50%">
+  
 **Languages:** C++ , JavaScript, 
 
 **Frontend:** React, Vite, Tailwind CSS, Redux, HTML5, CSS3
