@@ -23,8 +23,8 @@ const harshit = {
   education: "B.Tech Student",
   location: "India 🇮🇳",
   currentProject: "CodeBit - AI Coding Platform",
-  focus: ["DSA", "MERN Stack", "System Design", "Placements"],
-  learning: ["Advanced Backend", "Clean UI/UX", "Scalable Systems"],
+  focus: ["DSA", "MERN Stack", "Placements"],
+  learning: ["System Design", "Clean UI/UX", "Scalable Systems"],
   askMeAbout: ["React", "Node.js", "MongoDB", "JWT Auth", "Judge0", "Tailwind"],
   goal: "Build real-world products and crack top tech opportunities",
   funFact: "I don't stop until the UI feels perfect ✨"
