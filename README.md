@@ -50,6 +50,7 @@ Practicing DSA, improving problem-solving, building strong projects and learning
 </td> </tr> </table>
 
 🛠 Tech Stack
+
 <table> <tr> <td width="50%">
   
 **Languages:** C++ , JavaScript, 
