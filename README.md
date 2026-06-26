@@ -63,7 +63,9 @@ Practicing DSA, improving problem-solving, building strong projects and learning
 
 **Tools:** Git, GitHub, VS Code, Postman, Vercel
 </td> </tr> </table>
+
 🏆 Featured Projects
+
 <table> <tr> <td width="50%" valign="top">
 ⚡ CodeBit — AI Coding Platform
 
